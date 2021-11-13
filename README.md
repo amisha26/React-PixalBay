@@ -1,1 +1,1 @@
-# Development mode
+# Development mode - React-PixalBay
